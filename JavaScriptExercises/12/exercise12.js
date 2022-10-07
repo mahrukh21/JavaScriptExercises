@@ -1,0 +1,3 @@
+// Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
+arr = ["Sports Bikes", "Lambo", "Suzuki" ];
+console.log("I love" , arr[0] , "I love" , arr[2], arr[0] , "But my parents say no you are a girl you can only drive cars so, I would like to buy", arr[1], "one day!" );
